@@ -29,13 +29,6 @@ img {
 
 .header {
   display: flex;
-  /* padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
-  align-items: center;
-  flex-direction: column; */
-  /* border-bottom: 1px solid #ececec; */
 }
 
 /* container */
@@ -898,7 +891,7 @@ img {
 
 .modal {
   position: absolute;
-  top: 221px;
+  top: 20px;
   left: 50%;
 
   min-width: 528px;
